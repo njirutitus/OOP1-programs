@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615555005 source:c:\users\admin\documents\oop1\library\control-structures\main.c
+	<stdio.h>
+	<stdlib.h>
+
